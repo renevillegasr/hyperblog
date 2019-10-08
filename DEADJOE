@@ -1,0 +1,32 @@
+
+*** These modified files were found in JOE when it aborted on Tue Oct  8 18:25:06 2019
+*** JOE was aborted because the terminal closed
+
+*** File '/home/rvillegas/proyecto1/.git/COMMIT_EDITMSG'
+Agregue un cambio para mencionar su complexión física 
+# Por favor ingrese el mensaje del commit para sus cambios. Las líneas que comiencen
+# con '#' serán ignoradas, y un mensaje vacío aborta el commit.
+#
+# En la rama master
+# Cambios a ser confirmados:
+#	modificado:     historia.txt
+#
+
+*** File '(Unnamed)'
+q
+quit
+
+*** File '(Unnamed)'
+Append
+
+*** File '(Unnamed)'
+TotaldeLitros_dump.csv
+TotaldeLitros_dump.csv
+/home/rvillegas/proyecto1/.git/COMMIT_EDITMSG
+* Build Log *
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
