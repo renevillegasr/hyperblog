@@ -5,7 +5,14 @@ René tiene 44 años, nació en CDMX y ahora vive en Mexicaltzingo
 Hoy hablaremos de su historia
 
 Es gordito...
+<<<<<<< HEAD
 
 Hoy hablaremos de su vida
+=======
+
+Hoy hablaremos de su vida
+
+Mañana nos enfocaremos en toda su vida.
+>>>>>>> cabecera
 
 Fin de la historia
