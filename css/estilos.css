@@ -3,6 +3,7 @@ body
 	color: #333;
 	text-align: left;
 	font-family: "Arial"
+	font-size: 16px;
 }
 
 #container
@@ -11,4 +12,9 @@ body
 	padding: 1em;	
 	text-align: left;
 	border: 1px solid #ddd;
+}
+
+#container h1
+{
+	font-size: 20px;
 }
