@@ -1,9 +1,4 @@
 <<<<<<< HEAD
-body {
-	color: deeppink;
-	text-align: center;
-	font-family: "Arial";
-=======
 body
 {
 	color: #333;
@@ -41,5 +36,4 @@ body
 #container h1
 {
 	font-size: 20px;
->>>>>>> cabecera
 }
